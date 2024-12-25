@@ -1,2 +1,3 @@
-# calculator
-It is a basic calculator project. In which I am using HTML,CSS,JS.
+A simple and user-friendly calculator built using HTML, CSS, and JavaScript. This project performs basic mathematical operations such as addition, subtraction, multiplication, and division. The calculator features a clean and responsive design, making it intuitive to use on various devices. Ideal for showcasing fundamental front-end development skills.
+A simple and user-friendly calculator built using HTML, CSS, and JavaScript. This project performs basic mathematical operations such as addition, subtraction, multiplication, and division. The calculator features a clean and responsive design, making it intuitive to use on various devices. Ideal for showcasing fundamental front-end development skills.
+Skills: HTML5 · Cascading Style Sheets (CSS) · JavaScript
